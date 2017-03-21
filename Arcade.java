@@ -4,7 +4,7 @@
  {
  public static void main(String [] arguments)  //main operator with no return value
  {
- int SCREEN_HEIGHT = 500;                      //set the height of the screen
+ int SCREEN_HEIGHT = 640;                      //set the height of the screen
  int SCREEN_WIDTH = 800;                       //set the width of the screen
  
   JFrame window = new JFrame();                //make a new frame
